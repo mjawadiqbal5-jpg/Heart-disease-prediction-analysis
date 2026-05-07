@@ -43,5 +43,7 @@ After experimentation, K-Nearest Neighbors demonstrated high accuracy and reliab
 
 ### How to Run
 1. Clone the repository.
-2. Install dependencies: pip install pandas scikit-learn matplotlib seaborn.
-3. Run the script: python main_analysis.py.
+2. Install all dependencies using the requirements file:
+   pip install -r requirements.txt
+3. Run the script:
+   python main_analysis.py
