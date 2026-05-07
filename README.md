@@ -1,7 +1,3 @@
-Here is a clean, text-only version of the README for your repository. 
-
-***
-
 # Heart Disease Prediction and Analysis
 
 This project seeks to contribute to the detection of heart attack risk, coronary artery disease, and other cardiovascular disorders. Using the UCI Heart Disease dataset, I implemented a complete machine learning pipeline to compare the effectiveness of five different predictive models.
